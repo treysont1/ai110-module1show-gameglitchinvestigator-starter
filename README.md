@@ -26,12 +26,15 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+   Meant to provide experience in debugging AI written code and navigating unfamiliar codebase.
 - [ ] Detail which bugs you found.
+   Inaccurate hints, faulty difficulty logic, faulty invalid input handling, incorrect guesses number, new game button irrelevant
 - [ ] Explain what fixes you applied.
+   Fixed all of these.
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- ![alt text](image.png)
 
 ## 🚀 Stretch Features
 
